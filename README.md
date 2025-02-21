@@ -1,6 +1,6 @@
 ## Olá! Eu sou Izabelle Cavalcante, engenheira mecatrônica e programadora 👩🏼‍💻
 
-- 🤖 Atualmente estou estudando Engenharia Mecatrônica na UFRN  #Colocar onde trabalho futuramente.
+- 🤖 Atualmente estou estudando Engenharia Mecatrônica na UFRN . <!--Depois colocar onde trabalho futuramente-->
 - ⚙️ Possuo formação técnica em Mecatrônica pelo IFRN.
 - 🛜 Possuo Formação Inicial e Continuada(FIC) em sistemas embarcados pelo IFRN.
 - 💻 Neste momento estou aprofundando meus conhecimentos na linguagem C, com ênfase na programação de microcontroladores.
@@ -38,5 +38,5 @@
   <a href="https://www.instagram.com/izabelle_c.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/izabelle-cavalcante-0842552b8/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@izabellecavalcante4643" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="testettk" target="_blank"><img src="</a>https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" #ainda colocar ttk
+  <a href="https://www.tiktok.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a> <!--colocar link do ttk dps-->
 </div>
