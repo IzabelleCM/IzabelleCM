@@ -31,8 +31,6 @@
   <img align="center" alt="Iza-Replit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg">
 </div>
 
-![snake gif](https://github.com/IzabelleCM/IzabelleCM/blob/output/github-contribution-grid-snake.gif)
-
   ##
  
 <div> 
@@ -42,3 +40,7 @@
   <a href="https://www.youtube.com/@izabellecavalcante4643" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a> <!--colocar link do ttk dps-->
 </div>
+
+##
+
+![snake gif](https://github.com/IzabelleCM/IzabelleCM/blob/output/github-contribution-grid-snake.gif)
