@@ -16,7 +16,6 @@ on:
 
 # The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -37,8 +36,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Alter background color of SVG to purple
-        run: sed -i 's/white/#800080/g' dist/github-contribution-grid-snake.svg
+      - name: Alter background color of GIF to purple
+        run: |
+          sudo apt-get update
+          sudo apt-get install imagemagick
+          convert dist/github-contribution-grid-snake.gif -background "#800080" -flatten dist/github-contribution-grid-snake.gif
 
       - name: Show build status
         run: git status
@@ -51,3 +53,4 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
