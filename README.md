@@ -1,14 +1,15 @@
 ## Olá! Eu sou Izabelle Cavalcante, engenheira mecatrônica e programadora 👩🏼‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📄 Currículo lattes: 
+- 🤖 Atualmente estou estudando Engenharia Mecatrônica na UFRN  #Colocar onde trabalho futuramente.
+- ⚙️ Possuo formação técnica em Mecatrônica pelo IFRN.
+- 🛜 Possuo Formação Inicial e Continuada(FIC) em sistemas embarcados pelo IFRN.
+- 💻 Atualmente estou aprofundando meus conhecimentos na linguagem C, com ênfase na programação de microcontroladores.
+- 🧠 Sempre buscando aprender e aprimorar minhas habilidades, especialmente em áreas de automação, eletrônica e programação.
+- 🔧 Já trabalhei em diversos projetos práticos, incluindo desenvolvimento de sistemas embarcados.
+- 📡 Estou interessada em novas tecnologias, como IoT e inteligência artificial.
+- 📚 Em paralelo, gosto de acompanhar as tendências da indústria e estou sempre explorando novos tópicos, como robótica industrial, CNC e CLP.
+- 🚀 Busco colaborar com equipes que compartilham a paixão por criar soluções tecnológicas eficientes e escaláveis.
+- 📄 Currículo lattes: https://lattes.cnpq.br/8201329960572710
 
 <div>
   <a href = "https://github.com/IzabelleCM">
@@ -26,7 +27,7 @@
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iza-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
-  
+
   ##
  
 <div> 
