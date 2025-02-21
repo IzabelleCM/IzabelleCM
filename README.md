@@ -1,5 +1,7 @@
 ## Olá! Eu sou Izabelle Cavalcante, engenheira mecatrônica e programadora 👩🏼‍💻
 
+![snake gif](https://github.com/IzabelleCM/IzabelleCM/blob/output/github-contribution-grid-snake.gif)
+
 - 🤖 Atualmente estou estudando Engenharia Mecatrônica na UFRN . <!--Depois colocar onde trabalho futuramente-->
 - ⚙️ Possuo formação técnica em Mecatrônica pelo IFRN.
 - 🛜 Possuo Formação Inicial e Continuada(FIC) em sistemas embarcados pelo IFRN.
