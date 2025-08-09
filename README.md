@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/izabelle_c.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/izabelle-cavalcante-0842552b8/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@izabellecavalcante4643" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a> <!--colocar link do ttk dps-->
+  <a href="https://www.tiktok.com/@mecatronicgirls?_t=ZM-8yipx308F8w&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a> <!--colocar link do ttk dps-->
 </div>
 
 ##
