@@ -3,6 +3,7 @@
 - 🤖 Atualmente estou estudando Engenharia Mecatrônica na UFRN . <!--Depois colocar onde trabalho futuramente-->
 - ⚙️ Possuo formação técnica em Mecatrônica pelo IFRN.
 - 🛜 Possuo Formação Inicial e Continuada(FIC) em sistemas embarcados pelo IFRN.
+- 🕹️ Estou participando de uma residência tecnológica na área de sistemas embarcados.
 - 💻 Neste momento estou aprofundando meus conhecimentos na linguagem C, com ênfase na programação de microcontroladores.
 - 🧠 Sempre buscando aprender e aprimorar minhas habilidades, especialmente em áreas de automação, eletrônica e programação.
 - 🔧 Já trabalhei em diversos projetos práticos, incluindo desenvolvimento de sistemas embarcados.
